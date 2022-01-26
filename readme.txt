@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 Test Origin Push.
 New line.
 New line 01.
+GitHub New Line 01.
