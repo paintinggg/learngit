@@ -6,4 +6,4 @@ New line.
 New line 01.
 GitHub New Line 01.
 Creating a new branch is quick.
-Creating a new branch is quick & simple.
+Creating a new branch is quick and simple.
